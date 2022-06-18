@@ -1,6 +1,6 @@
 theme: jekyll-theme-hacker
-title: meatbag.xyz
-description: "@meatbagMB"
+name: meatbag.xyz
+title: null
 plugins:
   - jekyll-relative-links
 relative_links:
