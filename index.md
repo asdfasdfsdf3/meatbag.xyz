@@ -8,7 +8,7 @@ I specialize in Python, Web Scraping, Automation, and more.
 Become a monthly sponsor and gain access to ALL my premium repositories:
 [https://github.com/sponsors/meatbagMB](https://github.com/sponsors/meatbagMB)
 
-Need something else? Hire me on Freelancer: [https://freelancer.com/u/meatbag](https://freelancer.com/u/meatbag) or [contact me](/contact)
+Need something else? Hire me on Freelancer: [https://freelancer.com/u/meatbag](https://freelancer.com/u/meatbag)
 
 # Projects:
 - [OutlookHotmailValidator](https://google.com) - Python class for validating outlook/hotmail emails
