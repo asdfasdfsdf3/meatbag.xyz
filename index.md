@@ -3,8 +3,8 @@ title: /home
 layout: home
 permalink: /
 ---
-Become a monthly sponsor and gain access to ALL my premium repositories:\
-https://github.com/sponsors/meatbagMB
+Become a monthly sponsor and gain access to ALL my premium repositories:
+[https://github.com/sponsors/meatbagMB](https://github.com/sponsors/meatbagMB)
 # Projects:
 - [OutlookHotmailValidator](https://google.com) - Python class for validating outlook/hotmail emails
 - [DisBump](https://google.com) - Discord bump bot made with discord.py and postgresql
