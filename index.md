@@ -10,4 +10,4 @@ permalink: /
 - [RedGifsPy](https://google.com) - Python library for the redgifs api inlcuding auth and uploading
 - [RedditXpost](https://google.com) - Python bot for auto-crossposting across multiple subreddits
 
-# Posts:
+# Blog Posts:
