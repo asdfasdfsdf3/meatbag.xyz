@@ -4,3 +4,8 @@ description: "@meatbagMB"
 github:
   is_project_page: false
 show_downloads: false
+footer: 'follow me on <a href="https://twitter.com/meatbagMB">twitter</a>'
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
