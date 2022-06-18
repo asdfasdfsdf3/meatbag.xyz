@@ -15,5 +15,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-github:
-  is_project_page: false
+github: is_project_page: false
+show_downloads: false
