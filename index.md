@@ -3,6 +3,8 @@ title: /home
 layout: home
 permalink: /
 ---
+I specialize in Python, Web Scraping, Automation, and more.
+
 Become a monthly sponsor and gain access to ALL my premium repositories:
 [https://github.com/sponsors/meatbagMB](https://github.com/sponsors/meatbagMB)
 # Projects:
