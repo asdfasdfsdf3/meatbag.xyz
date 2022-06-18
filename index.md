@@ -1,3 +1,8 @@
+---
+title: /home
+layout: home
+permalink: /
+---
 # Projects:
 - [OutlookHotmailValidator](https://google.com) - Python class for validating outlook/hotmail emails
 - [DisBump](https://google.com) - Discord bump bot made with discord.py and postgresql
