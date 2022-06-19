@@ -5,7 +5,7 @@ permalink: /
 ---
 I specialize in Python, Web Scraping, Automation, and more.
 
-Sponsor me to get ALL my premium projects:
+Become a monthly sponsor and gain access to ALL my premium projects:
 [https://github.com/sponsors/meatbagMB](https://github.com/sponsors/meatbagMB){:target="_blank"}
 
 Need something else? Hire me on Freelancer: [https://freelancer.com/u/meatbag](https://freelancer.com/u/meatbag){:target="_blank"}
