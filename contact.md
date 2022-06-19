@@ -3,6 +3,7 @@ title: /contact
 layout: page
 permalink: /contact
 ---
+# Contact me:
 Email: [contact@meatbag.xyz](mailto:contact@meatbag.xyz)
 
 Text: [+15416222410](sms:+15416222410)
