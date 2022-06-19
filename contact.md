@@ -9,8 +9,8 @@ These are the fastest ways to get in touch with me..
 - Text: [+15416222410](sms:+15416222410)
 - Skype: [Meatbag](skype:live:.cid.d59a8673cffca71b?chat)
 
-
+\
 These are my other accounts. I may or may not respond..
 # Social links
 - Twitter: [@meatbagMB](https://twitter.com/meatbagMB)
-- Instagram: [@meatbagmb](https://instagram.com/meatbagmb)
+- Instagram: [@meatbagMB](https://instagram.com/meatbagMB)
