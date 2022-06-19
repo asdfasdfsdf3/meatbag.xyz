@@ -12,5 +12,5 @@ These are the fastest ways to get in touch with me..
 
 These are my other accounts. I may or may not respond..
 # Social links
-- Twitter: [https://twitter.com/meatbagMB](@meatbagMB)
-- Instagram: [https://instagram.com/meatbagMB](@meatbagmb)
+- Twitter: [@meatbagMB](https://twitter.com/meatbagMB)
+- Instagram: [@meatbagmb](https://instagram.com/meatbagmb)
