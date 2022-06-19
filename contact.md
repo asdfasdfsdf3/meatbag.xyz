@@ -10,6 +10,6 @@ These are the fastest ways to get in touch with me..
 - Discord: [Meatbag#2181]([https://](https://discord.gg/9qprFxxUQH))
 - Skype: [Meatbag](skype:live:.cid.d59a8673cffca71b?chat)
 
-# Social links
+# Social links:
 - Twitter: [@meatbagMB](https://twitter.com/meatbagMB)
 - Instagram: [@meatbagMB](https://instagram.com/meatbagMB)
