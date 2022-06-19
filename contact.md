@@ -3,4 +3,4 @@ title: /contact
 layout: page
 permalink: /contact
 ---
-meatcorp@protonmail.com
+contact@meatbag.xyz
