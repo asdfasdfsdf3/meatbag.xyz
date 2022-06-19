@@ -3,5 +3,5 @@ title: /contact
 layout: page
 permalink: /contact
 ---
-Write to me here:\
+Write to me here:
 [contact@meatbag.xyz](mailto:contact@meatbag.xyz)
