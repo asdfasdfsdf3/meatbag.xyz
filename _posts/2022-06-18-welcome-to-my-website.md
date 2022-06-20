@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  My Twitter is controlled by an AI
+title:  Welcome to my website
 ---
 # Welcome to my website
 \
