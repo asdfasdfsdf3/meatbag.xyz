@@ -3,8 +3,8 @@ title: /home
 layout: home
 permalink: /
 ---
-I specialize in Python, Web Scraping, Automation, and more.\
-I also make music: [https://soundcloud.com/meatbagMB](https://soundcloud.com/meatbagMB)
+I specialize in Python, Web Scraping, Automation, and more.
+I also make music: [https://soundcloud.com/meatbagMB](https://soundcloud.com/meatbagMB){:target="_blank"}
 
 Become a monthly sponsor and gain access to ALL my premium projects:
 [https://github.com/sponsors/meatbagMB](https://github.com/sponsors/meatbagMB){:target="_blank"}
