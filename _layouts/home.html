@@ -17,7 +17,7 @@ layout: default
 <script type="text/javascript">
     $(document).ready(function() {
         $.getJSON("https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=fyebrazy&api_key=a870db12ebf365062fd7d6386292bf76&format=json", function(data) {
-            var html = 'Currently listening to:<br>';
+            var html = 'Currently listening to: ';
             var counter = 1;
             $.each(data.recenttracks.track, function(i, item) {
                 if(counter == 1) {
@@ -29,4 +29,4 @@ layout: default
         });
     });
 </script>
-<div class="listening-to">Currently listening to:<br><span><a href="https://www.last.fm/music/Young+Thug/_/Special+(feat.+Offset+and+Solo+Lucci)" target="_blank">Special (feat. Offset and Solo Lucci) - Young Thug</a></span></div>
+<div class="listening-to">Currently listening to: <br><span style="white-space: nowrap"><a href="https://www.last.fm/music/Young+Thug/_/Special+(feat.+Offset+and+Solo+Lucci)" target="_blank">Special (feat. Offset and Solo Lucci) - Young Thug</a></span></div>
