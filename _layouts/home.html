@@ -21,7 +21,7 @@ layout: default
             var counter = 1;
             $.each(data.recenttracks.track, function(i, item) {
                 if(counter == 1) {
-                    html += '<span><a href="' + item.url + '" target="_blank">' + item.name + ' - ' + item.artist['#text'] + '</a></span>';
+                    html += '<span style="white-space: nowrap"><a href="' + item.url + '" target="_blank">' + item.name + ' - ' + item.artist['#text'] + '</a></span>';
                 }
                 counter++
             });
