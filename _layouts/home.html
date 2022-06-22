@@ -15,7 +15,7 @@ layout: default
   </ul>
 {%- endif -%}
 <script type="text/javascript">
-    $(document).ready(function() {
+    $(window).bind("load", function() {
         $.getJSON("https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=fyebrazy&api_key=a870db12ebf365062fd7d6386292bf76&format=json", function(data) {
             var html = 'Currently listening to: ';
             var counter = 1;
